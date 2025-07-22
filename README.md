@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Nimas from Sri Lanka<br><br>- 🔭 I’m working as frontend developer<br>- 📚 I'm currently learning React<br>- ⚡ I like to read books when I have free time.</p>
+<p align="left">I'm Nimas from Sri Lanka<br>- 🔭 I’m working as frontend developer<br>- 👨‍💻 I’m an Undergraduate at University of Kelaniya<br>- 📚 I'm currently learning React<br>- ⚡ I like to read books when I have free time.</p>
 
 ###
 
