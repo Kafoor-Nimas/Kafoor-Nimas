@@ -8,9 +8,12 @@
 <a href="https://www.linkedin.com/in/nimas-kafoor-481482292" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a> 
-<a href="https://twitter.com/funnimas100" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a><a href="https://twitter.com/funnimas100" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/funnimas100" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Follow%20Me&label=&color=000000&labelColor=&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA..." height="25" alt="X (Twitter) logo" />
+</a>
+
+
+  <a href="https://twitter.com/funnimas100" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </a></div>
 
