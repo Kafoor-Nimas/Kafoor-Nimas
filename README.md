@@ -74,9 +74,9 @@ I'm a passionate **MERN Full-Stack Developer** and **BICT undergraduate** at the
 
 <div align="center">
 
-![Nimas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kafoor-Nimas&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Nimas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kafoor-Nimas&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kafoor-Nimas&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kafoor-Nimas&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kafoor-Nimas&theme=radical&hide_border=true)
 
