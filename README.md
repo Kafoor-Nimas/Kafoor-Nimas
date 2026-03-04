@@ -20,7 +20,7 @@ I'm a passionate **MERN Full-Stack Developer** and **BICT undergraduate** at the
 - 🌱 Currently expanding into **Next.js**, **TypeScript** & **PostgreSQL with Prisma**
 - 💼 Actively seeking my **first internship opportunity**
 - 🚀 Built **5+ full-stack projects** with real-world features
-- 📍 Based in **Polonnaruwa, Sri Lanka**
+- 📍 Based in **Colombo, Sri Lanka**
 
 ---
 
