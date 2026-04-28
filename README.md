@@ -19,8 +19,8 @@ I'm a passionate **MERN Full-Stack Developer** and **BICT undergraduate** at the
 - 🎓 Studying **BICT** at University of Kelaniya (2022 – Present)
 - 🌱 Currently expanding into **Next.js**, **TypeScript** & **PostgreSQL with Prisma**
 - 💼 Actively seeking my **first internship opportunity**
-- 🚀 Built **5+ full-stack projects** with real-world features
-- 📍 Based in **Colombo, Sri Lanka**
+- 🚀 Built **9 full-stack projects** with real-world features
+- 📍 Based in **Polonnaruwa, Sri Lanka**
 
 ---
 
@@ -40,6 +40,7 @@ I'm a passionate **MERN Full-Stack Developer** and **BICT undergraduate** at the
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 
 **Database**
 
@@ -55,6 +56,7 @@ I'm a passionate **MERN Full-Stack Developer** and **BICT undergraduate** at the
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
@@ -62,11 +64,15 @@ I'm a passionate **MERN Full-Stack Developer** and **BICT undergraduate** at the
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **E-Commerce Platform** | Production-ready e-commerce with JWT auth, Stripe & COD payments, order tracking & admin panel | React · Node.js · MongoDB · Stripe · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/ecommerce-app) · [Live](https://ecommerce-frontend-topaz-kappa.vercel.app) |
+| **Servd — AI Recipe Platform** | AI-powered recipe platform with Gemini AI pantry scanning, PDF export & pro tier subscription | Next.js · Strapi · PostgreSQL · Gemini AI · Clerk | [GitHub](https://github.com/Kafoor-Nimas/AI-Recipe) · [Live](https://ai-recipe-servd.vercel.app) |
 | **GreenCart** | Full-stack grocery delivery app with JWT auth, real-time cart, Stripe payments & admin panel | React · Node.js · MongoDB · Stripe · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/Grocery-Delivery) · [Live](https://grocerydelivery-zeta.vercel.app) |
 | **Nimas Estate** | Real estate marketplace with Google OAuth, property CRUD & advanced search | React · Redux · Node.js · MongoDB · Firebase | [GitHub](https://github.com/Kafoor-Nimas/mern-estate) |
-| **Dev Events** | Event management platform with SSR, full CRUD & PostHog analytics | Next.js · TypeScript · MongoDB · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/Dev_Events) · [Live](https://dev-events-navy-omega.vercel.app) |
 | **Car Rental** | Vehicle booking platform with JWT auth, real-time availability & Framer Motion animations | React · Node.js · MongoDB · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/CarRental) · [Live](https://car-rental-psi-one.vercel.app) |
+| **Dev Events** | Event management platform with SSR, full CRUD & PostHog analytics | Next.js · TypeScript · MongoDB · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/Dev_Events) · [Live](https://dev-events-navy-omega.vercel.app) |
+| **BookStore** | Full-stack MERN bookstore with Firebase auth, Redux & protected admin routes | React · Node.js · MongoDB · Firebase | [GitHub](https://github.com/Kafoor-Nimas/book-store-mern-project) · [Live](https://book-store-frontend-inky-iota.vercel.app) |
 | **Awwwards GSAP** | Awwwards Site of the Day-worthy website with scroll animations & clip-path effects | React · GSAP · Tailwind CSS | [GitHub](https://github.com/Kafoor-Nimas/gsap-awwwards-website) · [Live](https://gsap-awwwards-website-alpha.vercel.app) |
+| **Edusity** | Modern fully responsive college & university website | React.js · CSS | [GitHub](https://github.com/Kafoor-Nimas/edusity) · [Live](https://edusity-seven-phi.vercel.app) |
 
 ---
 
@@ -89,6 +95,7 @@ I'm a passionate **MERN Full-Stack Developer** and **BICT undergraduate** at the
 - ⚡ **Advanced Next.js** — Server Components, SSR, API Routes
 - 🔷 **TypeScript** — Scalable frontend architecture
 - 🐘 **PostgreSQL with Prisma ORM**
+- 🤖 **Agentic AI & LLM Integration**
 
 ---
 
