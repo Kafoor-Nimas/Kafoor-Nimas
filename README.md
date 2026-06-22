@@ -20,7 +20,7 @@ I'm a passionate **MERN & PERN Full-Stack Developer** and **BICT undergraduate**
 - 🌱 Currently learning **Advanced Next.js**, **Java & Spring Boot**
 - 💼 Actively seeking my **first internship opportunity**
 - 🚀 Built **11 full-stack projects** with real-world features
-- 📍 Based in **Polonnaruwa, Sri Lanka**
+- 📍 Based in **Colombo, Sri Lanka**
 
 ---
 
