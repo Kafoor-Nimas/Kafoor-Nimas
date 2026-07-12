@@ -2,7 +2,7 @@
 
 # Hi there, I'm Nimas Kafoor 👋
 
-### MERN & PERN Full-Stack Developer | Seeking Internship
+### MERN & PERN Full-Stack Developer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://nimas-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimas-kafoor)
