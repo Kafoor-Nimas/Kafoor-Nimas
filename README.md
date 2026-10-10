@@ -2,7 +2,7 @@
 
 # Hi there, I'm Nimas Kafoor 👋
 
-### MERN & PERN Full-Stack Developer 
+### MERN & Next.js Full-Stack Developer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://nimas-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimas-kafoor)
@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **MERN & PERN Full-Stack Developer** and **BICT undergraduate** at the University of Kelaniya, Sri Lanka. I love building fast, scalable, and user-friendly web applications from frontend to backend.
+I'm a passionate **MERN & Next.js Full-Stack Developer** and **BICT undergraduate** at the University of Kelaniya, Sri Lanka. I love building fast, scalable, and user-friendly web applications from frontend to backend.
 
 - 🎓 Studying **BICT** at University of Kelaniya (2022 – Present)
 - 🌱 Currently learning **Advanced Next.js**, **Java & Spring Boot**
-- 💼 Actively seeking my **first internship opportunity**
+- 💼 Software Engineer Intern @ Apptron Solutions
 - 🚀 Built **11 full-stack projects** with real-world features
 - 📍 Based in **Colombo, Sri Lanka**
 
