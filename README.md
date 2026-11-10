@@ -59,22 +59,19 @@ I'm a passionate **MERN & Next.js Full-Stack Developer** and **BICT undergraduat
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
-
 ## 🚀 Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **Online Food Ordering System** | Food ordering platform with real-time menu search, JWT authentication, order tracking & a full admin dashboard | React · Node.js · Express.js · MongoDB | [GitHub](https://github.com/Kafoor-Nimas/Online-Food-Ordering-System) · [Live](https://online-food-ordering-wheat-mu.vercel.app) |
+| **LifeLink — Blood Donation Platform** | Connects blood donors with patients across Sri Lanka, with emergency requests, donor search, role-based access & an admin dashboard | React · Tailwind CSS · Express.js · MongoDB | [GitHub](https://github.com/Kafoor-Nimas/blood-donation-app) · [Live](https://blood-donation-app-frontend-azure.vercel.app) |
 | **Instacart** | Full-stack grocery delivery platform with admin panel & delivery partner dashboard | React · Node.js · Express.js · PostgreSQL | [GitHub](https://github.com/Kafoor-Nimas/Instacart) · [Live](https://instacart-client.vercel.app) |
-| **Servd — AI Recipe Platform** | AI-powered recipe platform with Gemini AI pantry scanning, PDF export & pro tier subscription | Next.js · Strapi · PostgreSQL · Gemini AI · Clerk | [GitHub](https://github.com/Kafoor-Nimas/AI-Recipe) · [Live](https://ai-recipe-servd.vercel.app) |
 | **E-Commerce Platform** | Production-ready e-commerce with JWT auth, Stripe & COD payments, order tracking & admin panel | React · Node.js · MongoDB · Stripe · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/ecommerce-app) · [Live](https://ecommerce-frontend-topaz-kappa.vercel.app) |
-| **SnapCut** | Barbershop appointment booking platform with barber browsing, time slots & admin dashboard | React · Node.js · MongoDB · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/SnapCut) · [Live](https://snap-cut-frontend.vercel.app) |
-| **GreenCart** | Full-stack grocery delivery app with JWT auth, real-time cart, Stripe payments & admin panel | React · Node.js · MongoDB · Stripe · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/Grocery-Delivery) · [Live](https://grocerydelivery-zeta.vercel.app) |
 | **Nimas Estate** | Real estate marketplace with Google OAuth, property CRUD & advanced search | React · Redux · Node.js · MongoDB · Firebase | [GitHub](https://github.com/Kafoor-Nimas/mern-estate) |
-| **Car Rental** | Vehicle booking platform with JWT auth, real-time availability & Framer Motion animations | React · Node.js · MongoDB · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/CarRental) · [Live](https://car-rental-psi-one.vercel.app) |
-| **BookStore** | Full-stack MERN bookstore with Firebase auth, Redux & protected admin routes | React · Node.js · MongoDB · Firebase | [GitHub](https://github.com/Kafoor-Nimas/book-store-mern-project) · [Live](https://book-store-frontend-inky-iota.vercel.app) |
-| **Awwwards GSAP** | Awwwards Site of the Day-worthy website with scroll animations & clip-path effects | React · GSAP · Tailwind CSS | [GitHub](https://github.com/Kafoor-Nimas/gsap-awwwards-website) · [Live](https://gsap-awwwards-website-alpha.vercel.app) |
-| **Dev Events** | Event management platform with SSR, full CRUD & PostHog analytics | Next.js · TypeScript · MongoDB · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/Dev_Events) · [Live](https://dev-events-navy-omega.vercel.app) |
-| **Edusity** | Modern fully responsive college & university website | React.js · CSS | [GitHub](https://github.com/Kafoor-Nimas/edusity) · [Live](https://edusity-seven-phi.vercel.app) |
+| **Car Rental** | Vehicle booking platform with JWT auth, real-time availability & Framer Motion animations | React · Tailwind CSS · Express.js · Cloudinary | [GitHub](https://github.com/Kafoor-Nimas/CarRental) · [Live](https://car-rental-psi-one.vercel.app) |
+| **Awwwards GSAP** | Awwwards-inspired website with scroll animations & clip-path effects | React · GSAP · Tailwind CSS | [GitHub](https://github.com/Kafoor-Nimas/gsap-awwwards-website) · [Live](https://gsap-awwwards-website-alpha.vercel.app) |
+
+> More projects are on my [GitHub profile](https://github.com/Kafoor-Nimas?tab=repositories).
 
 ---
 
